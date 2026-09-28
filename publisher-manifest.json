@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "be5552e564c4454c485d39a6",
+  "owner": "qpykbskbt",
+  "repo": "page-57740d18d1b30ab0609deee5",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "57740d18d1b30ab0609deee5",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b00355630480fb86f9f435812e19a05a07080fb0d4a7dfecb9f8d57ba35dad34",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供基础版、旗舰版和团队版VPN加速套餐，官方客户端下载，助力您获得稳定高速的网络体验。",
+          "AI_DESCRIPTION": "44F网络提供基础版、旗舰版和团队版VPN加速套餐，官方客户端下载，助力您获得稳定高速的网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n<style>\nbody {\n  font-family: 'Segoe UI', system-ui, sans-serif;\n  margin: 0;\n  padding: 0;\n  background-color: #f5f5f5;\n  color: #333;\n  line-height: 1.6;\n}\nnav {\n  background: #fff;\n  padding: 1rem;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  box-shadow: 0 2px 5px rgba(0,0,0,0.1);\n}\nnav h1 {\n  margin: 0;\n  font-size: 1.8rem;\n  color: #7b5eff;\n}\nnav a {\n  margin-left: 1.5rem;\n  text-decoration: none;\n  color: #333;\n  font-weight: 600;\n}\nnav a:hover {\n  color: #7b5eff;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 0 1rem;\n}\n#hero {\n  background: linear-gradient(135deg, #7b5eff, #9b7eff);\n  color: #fff;\n  padding: 4rem 2rem;\n  text-align: center;\n  margin-bottom: 3rem;\n  border-radius: 12px;\n}\n#hero h2 {\n  font-size: 2.4rem;\n  margin-bottom: 1rem;\n}\n#hero p {\n  font-size: 1.25rem;\n  margin-bottom: 2rem;\n}\n.alternate {\n  display: flex;\n  gap: 2rem;\n  margin-bottom: 3rem;\n  flex-wrap: wrap;\n}\n.alternate .left,\n.alternate .right {\n  flex: 1;\n  min-width: 300px;\n}\n.alternate .left {\n  order: 1;\n}\n@media (max-width: 768px) {\n  .alternate {\n    flex-direction: column;\n  }\n  .alternate .left,\n  .alternate .right {\n    order: 0;\n  }\n}\nsection {\n  margin-bottom: 3rem;\n}\n#plans,\n#clients,\n#faq {\n  background: #fff;\n  padding: 2rem;\n  border-radius: 12px;\n  box-shadow: 0 4px 8px rgba(0,0,0,0.05);\n}\n.card {\n  background: #fff;\n  border: 1px solid #e0e0e0;\n  border-radius: 8px;\n  padding: 1.5rem;\n  margin-bottom: 1.5rem;\n  transition: all 0.3s ease;\n}\n.card:hover {\n  transform: translateY(-4px);\n  box-shadow: 0 8px 16px rgba(0,0,0,0.08);\n}\n.card.featured {\n  border-color: #7b5eff;\n  box-shadow: 0 0 0 3px rgba(123,94,255,0.15);\n}\n.card h3 {\n  margin-top: 0;\n  color: #7b5eff;\n  font-size: 1.35rem;\n}\n.card ul {\n  padding-left: 1.25rem;\n  margin: 1rem 0;\n}\n#faq details {\n  background: #f9f9f9;\n  border-radius: 8px;\n  margin-bottom: 1rem;\n  padding: 1rem;\n}\n#faq summary {\n  font-weight: 700;\n  cursor: pointer;\n  padding: 0.75rem 0;\n  font-size: 1.1rem;\n}\n#faq summary::-webkit-details-marker {\n  display: none;\n}\nbutton {\n  background: #7b5eff;\n  color: #fff;\n  border: none;\n  padding: 1rem 2rem;\n  border-radius: 6px;\n  font-size: 1.1rem;\n  cursor: pointer;\n  text-decoration: none;\n  display: inline-block;\n  margin-top: 1rem;\n}\nbutton:hover {\n  background: #6b4ee6;\n}\n@media (max-width: 768px) {\n  nav {\n    flex-direction: column;\n    gap: 1rem;\n  }\n  nav a {\n    margin-left: 0;\n  }\n  #hero h2 {\n    font-size: 2rem;\n  }\n}\n</style>\n\n\n<main>\n<h1>44F网络</h1>\n<section id=\"hero\">\n<p>稳定高速网络加速</p>\n<h2>为您打造专属网络体验</h2>\n<a href=\"#plans\">查看套餐详情</a>\n</section>\n<section class=\"alternate\">\n<div class=\"left\">\n<h2>品牌简介</h2>\n<p>44F网络是专注于网络加速和VPN服务的优质品牌。我们致力于为用户提供稳定可靠的网络连接解决方案，助力您畅享更流畅的上网体验。</p>\n</div>\n<div class=\"right\">\n<h2>使用场景</h2>\n<p>个人用户可选择适合日常浏览的套餐，家庭或多人使用可支持多设备在线，企业和团队用户推荐定制化方案。</p>\n</div>\n</section>\n<section id=\"plans\">\n<h2>套餐选择</h2>\n{{PLANS_HTML}}\n</section>\n<section id=\"clients\">\n<h2>客户端下载</h2>\n{{CLIENTS_HTML}}\n</section>\n<section id=\"operation\">\n<h2>操作说明</h2>\n<ol>\n<li>访问官网下载官方客户端</li>\n<li>安装并打开客户端</li>\n<li>登录您的44F网络账号</li>\n<li>选择节点进行连接</li>\n</ol>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>44F网络是什么？</summary>\n<p>44F网络是一个专注于提供网络加速和VPN服务的品牌，旨在帮助用户获得更稳定和高速的网络体验。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>请根据您的每月流量需求、同时在线设备数量以及特定需求（如游戏加速）来选择套餐。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>44F网络支持多台设备同时在线，具体支持情况请以套餐详情为准。</p>\n</details>\n<details>\n<summary>套餐计费方式是怎样的？</summary>\n<p>我们提供月付和年付两种计费方式，年付可显著降低成本。</p>\n</details>\n<details>\n<summary>售后支持如何保障？</summary>\n<p>所有套餐均提供7x24优先工单支持，团队版用户还可获得专属客户经理服务。</p>\n</details>\n</section>\n</main>\n\n",
+          "hash": "0c948c3536e59be03872d1ab12a17e756ec427aad46b71bf7f7570135e6ef5fd",
+          "seo": {
+            "title": "44F网络 - 官方VPN加速器客户端下载",
+            "keywords": "44F网络, VPN加速器, 网络加速, 客户端下载, 官网下载",
+            "description": "44F网络提供基础版、旗舰版和团队版VPN加速套餐，官方客户端下载，助力您获得稳定高速的网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cqfwg.cn",
+    "host": "b.cqfwg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "cqfwg.cn",
+      "url": "https://cqfwg.cn/",
+      "label": "MZFast",
+      "apex": "cqfwg.cn",
+      "kind": null,
+      "identity": "ysydkjm/page-cecc2fb4759d28d913b81442"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b5107db54a6e985ae10b2b03f6a0012053ffb5744a75c5261858d43469d47a02",
+    "sitemap.xml": "16ccf9796d52dbca7196abf6b5874aba6f6d4867eef6acd4abfb4ce66fe35241",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "76244b88a947923b81d6e82b399a3398c0ef1060212db149dfc6951e2a76bb54",
+    "robots.txt": "6c1e0a0e3d5c1e0ea9c710a517c07439cf238986c8c45976ed9f4da33dc86cd7",
+    "776f2a1502dc13c783d75c86b8af007a.txt": "53ad3d7e5b5eee1684ea70a70bfeb6f6eb68d2ffffb413fb5ad7ecf34584d183"
+  },
+  "revision": "8e8df5b4d6613e4601fcfeace9cb4683bddfece17890f56ad5b7ea182927f18e"
+}
